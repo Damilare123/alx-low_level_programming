@@ -1,1 +1,1 @@
-0x03. C - Debugging
+This a a debugging session

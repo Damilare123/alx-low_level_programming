@@ -1,3 +1,4 @@
+<h1> Nested loops</h1>
 File 0-isupper.c is a function that checks for uppercase character.
 
 File 1-isdigit.c is a function that checks for a digit (0 through 9).
@@ -26,4 +27,4 @@ File 101-print_number.c is a function that prints an integer using only _putchar
 
 File _putchar.c contains the _putchar() function definition.
 
-File main.h is the header file containing all the function prototypes used in this project.
+File holberton.h is the header file containing all the function prototypes used in this project.
